@@ -69,6 +69,7 @@ p {
 }
 .l-heading {
   font-size: 40px;
+  line-height: 1.2;
 }
 /* Padding */
 .py-1 {
@@ -92,7 +93,7 @@ p {
 #navbar a img {
   width: 130px;
 }
-#navbar a img {
+#navbar .logo {
   float: left;
   padding-top: 15px;
 }
@@ -133,7 +134,7 @@ p {
 }
 /* Medeelel */
 #hotel-info {
-  height: 400px;
+  height: 450px;
 }
 #hotel-info .info-img {
   float: left;
@@ -182,7 +183,7 @@ p {
 }
 /* comments */
 #comments {
-  height: 600px;
+  height: 100%;
   background: url(../image/test-log.jpg) no-repeat center center/cover;
   padding-top: 100px;
 }
